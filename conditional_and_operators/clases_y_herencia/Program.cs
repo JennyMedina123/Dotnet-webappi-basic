@@ -36,3 +36,4 @@ class Cuadrado : Rectangulo
     }
 }
 
+// crear que el usuario cree un nummero hasta que no ingrese un numero valido no dejarlo salir o hasta que presione alguna letra.
